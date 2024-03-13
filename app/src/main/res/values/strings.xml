@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProfileKotlin</string>
+    <string name="txtName">Joe Davidson</string>
+    <string name="txtBtn">View Profile</string>
+    <string name="txtBio">My name is Joe and I am very excited to graduate this May. \n
+    I started doing coding and development in 2021. \n I love playing video games and hanging out with my wife, \n
+     two sons, and dog. Kotlin and Android Studio are fun new things that I am currently learning. </string>
+</resources>
